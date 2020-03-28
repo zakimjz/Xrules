@@ -8,6 +8,7 @@ Also included are the real and synthetic datasets used in the paper.
 
 * [2006-xrules:mlj] Mohammed J. Zaki and Charu C. Aggarwal. Xrules: an effective structural classifier for xml data. Machine Learning Journal, 62(1-2):137–170, February 2006. Special issue on Statistical Relational Learning and Multi-Relational Data Mining. doi:10.1007/s10994-006-5832-2.
 
+* [2003-xrules] Mohammed J. Zaki and Charu C. Aggarwal. Xrules: an effective structural classifier for xml data. In 9th ACM SIGKDD International Conference Knowledge Discovery and Data Mining. August 2003.
 
 #### HOW TO
 
